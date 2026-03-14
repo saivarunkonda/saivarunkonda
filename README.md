@@ -15,12 +15,6 @@ I build scalable applications across mobile, desktop, and backend using modern t
   
 ## 📌 Featured Projects
 
-### [GitHub-Store](https://github.com/saivarunkonda/GitHub-Store)
-A free, open-source app store for GitHub releases with Android & Desktop support using **Kotlin Multiplatform**.
-
-### [AudioMuse-AI](https://github.com/saivarunkonda/AudioMuse-AI)
-Automatic playlist generation for music servers using AI-powered audio analysis.
-
 ### [FlowPilot-Multimodal-Workflow-Navigator](https://github.com/saivarunkonda/FlowPilot-Multimodal-Workflow-Navigator)
 A workflow management system combining Kotlin and JavaScript.
 
