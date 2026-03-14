@@ -24,7 +24,7 @@ A workflow management system combining Kotlin and JavaScript.
 - Languages: Kotlin, TypeScript, Python, and more
 
 ## 🔗 Connect with Me
-- [LinkedIn]([(https://www.linkedin.com/in/sai-varun-konda-535900259/)])
+- [LinkedIn](https://www.linkedin.com/in/sai-varun-konda-535900259/)
 - [Portfolio](https://yourportfolio.com)
 
 
