@@ -25,7 +25,7 @@ A workflow management system combining Kotlin and JavaScript.
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sai-varun-konda-535900259/)
-- [Portfolio](https://yourportfolio.com)
+- [Portfolio](https://svkcham.tiiny.site/)
 
 
 ---
