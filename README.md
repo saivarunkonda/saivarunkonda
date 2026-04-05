@@ -12,11 +12,6 @@ I build scalable applications across mobile, desktop, and backend using modern t
 - **Backend**: Python, Node.js, C#
 - **AI/ML**: Python, TensorFlow, pytorch
 - **DevOps**: Docker, Kubernetes, AWS, 
-  
-## 📌 Featured Projects
-
-### [FlowPilot-Multimodal-Workflow-Navigator](https://github.com/saivarunkonda/FlowPilot-Multimodal-Workflow-Navigator)
-A workflow management system combining Kotlin and JavaScript.
 
 ## 📊 GitHub Stats
 - 15+ Public Repositories
