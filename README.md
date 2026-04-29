@@ -10,7 +10,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
 - **Languages**: Kotlin, TypeScript, Python, C#, Java, c++
 - **Mobile**: Kotlin Multiplatform, Android
 - **Frontend**: React, Next.js, Vue.js
-- **Backend**: Python, Node.js, C#
+- **Backend**: Python, Node.js
 - **AI/ML**: Python, TensorFlow, pytorch
 - **DevOps**: Docker, Kubernetes, AWS, 
 
