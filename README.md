@@ -15,7 +15,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
 - **DevOps**: Docker, Kubernetes, AWS, 
 
 ## 📊 GitHub Stats
-- 15+ Public Repositories
+- 35+ Public Repositories
 - Focus on: Mobile Development, AI/ML, Full-Stack Web, Cross Platform Development
 - Languages: Kotlin, TypeScript, Python, and more
 
