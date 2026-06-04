@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Sai Varun Konda
 
-### 🚀 Full-Stack Developer | AI/ML Enthusiast | Open Source Contributor
+### 🚀 Full-Stack Developer | AI/ML Enthusiast | Android Developer | Open Source Contributor
 
 I build scalable applications across mobile, desktop, and backend using modern technologies.
 
