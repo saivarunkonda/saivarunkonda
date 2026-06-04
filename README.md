@@ -20,7 +20,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
     <tr>
       <th>Must Watch Repos</th>
       <th>System Design</th>
-      <th>Show Cards Repos</th>
+      <th>Show Card Repos</th>
       <th>GAME TIME</th>
       <th>E-Smart Analyst</th>
     </tr>
