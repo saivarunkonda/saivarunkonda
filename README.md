@@ -22,7 +22,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
       <th>System Design</th>
       <th>Show Card Repos</th>
       <th>GAME TIME</th>
-      <th>E-Smart Analyst</th>
+      <th>Smart Analyst</th>
     </tr>
   </thead>
   <tbody>
