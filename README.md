@@ -18,7 +18,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
 <table>  
   <thead>
     <tr>
-      <th>Must Watch Repos</th>
+      <th>Featured</th>
       <th>System Design</th>
       <th>Show Card Repos</th>
       <th>Game Time</th>
