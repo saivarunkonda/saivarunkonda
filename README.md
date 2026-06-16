@@ -17,7 +17,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
 ##  Repos that are must watch
 <table>  
   <thead>
-    <tr>
+    <tr align="left">
       <th>Featured</th>
       <th>System Design</th>
       <th>Show Card Repos</th>
