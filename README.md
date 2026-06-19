@@ -41,14 +41,14 @@ I build scalable applications across mobile, desktop, and backend using modern t
       <td><a href="https://github.com/saivarunkonda/Back-End---Fear-Greed-Sentiment-Engine">Fear Greed Engine</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/saivarunkonda/ANDROID-PROJECTS">ANDROID PROJECTS</a></td>
+      <td><a href="https://github.com/saivarunkonda/ANDROID-PROJECTS">Android Projects</a></td>
       <td><a href="https://github.com/saivarunkonda/HOTEL-BOOKING-USING-AWS-LEXBOT">Hotel booking</a></td>
       <td><a href="https://github.com/saivarunkonda/AIML_INTERNSHIP">AIML</a></td>
       <td><a href="https://github.com/saivarunkonda/Samsung_Prism">PRISM</a></td>
       <td><a href="https://github.com/saivarunkonda/Eco-Tracker">Eco-Tracker</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/saivarunkonda/AIML_PROJECTS">AIML PROJECTS</td>
+      <td><a href="https://github.com/saivarunkonda/AIML_PROJECTS">AIML Projects</td>
       <td><a href="https://github.com/saivarunkonda/VOICE-BASED-TRANSPORT-ENQUIRY-SYSTEM">Transport System</a></td>
       <td><a href="https://github.com/saivarunkonda/FlowPilot-Multimodal-Workflow-Navigator">FlowPilot</a></td>
       <td><a href="https://github.com/saivarunkonda/AutoDevops">AutoDevops</a></td>
