@@ -64,7 +64,6 @@ I build scalable applications across mobile, desktop, and backend using modern t
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sai-varun-konda-535900259/)
-- [Portfolio](https://svkcham.tiiny.site/)
 
 ---
 **Always learning, always building.**
