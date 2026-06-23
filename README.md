@@ -31,7 +31,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
       <td><a href="https://github.com/saivarunkonda/Ride-Platform">Ride-Platform</a></td>
       <td><a href="https://github.com/saivarunkonda/CrisisLens">CrisisLens</a></td>
       <td><a href="https://github.com/saivarunkonda/RL">RL</a></td>
-      <td><a href="https://github.com/saivarunkonda/Hackspire">HackSpire</a></td>
+      <td><a href="https://github.com/saivarunkonda/Eco-Tracker">Eco-Tracker</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/saivarunkonda/MCP_Projects">MCP Projects</a></td>
@@ -45,7 +45,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
       <td><a href="https://github.com/saivarunkonda/HOTEL-BOOKING-USING-AWS-LEXBOT">Hotel booking</a></td>
       <td><a href="https://github.com/saivarunkonda/AIML_INTERNSHIP">AIML</a></td>
       <td><a href="https://github.com/saivarunkonda/Samsung_Prism">PRISM</a></td>
-      <td><a href="https://github.com/saivarunkonda/Eco-Tracker">Eco-Tracker</a></td>
+      <td><a href="https://github.com/saivarunkonda/Hackspire">HackSpire</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/saivarunkonda/AIML_PROJECTS">AIML Projects</td>
