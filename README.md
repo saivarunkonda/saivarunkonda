@@ -14,7 +14,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
 - **AI/ML**: Python, TensorFlow, pytorch
 - **DevOps**: Docker, Kubernetes, AWS, 
 
-##  Repos that are must watch
+##  Repos
 <table>  
   <thead>
     <tr align="left">
