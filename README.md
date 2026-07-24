@@ -57,6 +57,8 @@ I build scalable applications across mobile, desktop, and backend using modern t
 </tbody> 
 </table>
 
+Targeting 25-30LPA
+
 ## 📊 GitHub Stats
 - 30+ Public Repositories
 - Focus on: Mobile Development, AI/ML, Full-Stack Web, Cross Platform Development
