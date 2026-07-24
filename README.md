@@ -1,6 +1,6 @@
 
 
-# Hi there 👋 I'm Sai Varun Konda
+# Hey, there 👋 I'm Sai Varun Konda || Upcomming Founding backend AI Engineer
 
 ### 🚀 Full-Stack Developer | AI/ML Enthusiast | Android Developer | Open Source Contributor
 
