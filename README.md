@@ -1,6 +1,6 @@
 
 
-# Hey, there 👋 I'm Sai Varun Konda || Upcomming Founding Backend AI Engineer
+# Hey, there 🤖 I'm Sai Varun Konda || Upcomming Founding Backend AI Engineer
 
 ### 🚀 Full-Stack Developer | AI/ML | Android Developer | specialist @Backend AI Engineer | specialist @Designing Infrastructure
 
