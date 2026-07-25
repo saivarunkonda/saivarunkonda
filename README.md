@@ -68,4 +68,4 @@ I build scalable applications across mobile, desktop, and backend using modern t
 - [LinkedIn](https://www.linkedin.com/in/sai-varun-konda-535900259/)
 
 ---
-**Actively closing deals**
+**Building a brand that speaks**
