@@ -2,7 +2,7 @@
 
 # Hey, there 👋 I'm Sai Varun Konda || Upcomming Founding Backend AI Engineer
 
-### 🚀 Full-Stack Developer | AI/ML | Android Developer | specialist @Backend AI Engineer | specialist @Designing Infrastructure
+### 🚀 Full-Stack Developer | AI/ML | Android Developer | specialist @Backend AI Engineer
 
 I build scalable applications across mobile, desktop, and backend using modern technologies.
 
