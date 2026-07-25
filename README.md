@@ -42,7 +42,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
 </tr>
 <tr>
  <td><a href="https://github.com/saivarunkonda/ANDROID-PROJECTS">Android Projects</a></td>
- <td><a href="https://github.com/saivarunkonda/HOTEL-BOOKING-USING-AWS-LEXBOT">Hotel booking</a></td>
+ <td><a href="https://github.com/saivarunkonda/HOTEL-BOOKING-USING-AWS-LEXBOT">StayHub</a></td>
  <td><a href="https://github.com/saivarunkonda/AIML_INTERNSHIP">AIML</a></td>
  <td><a href="https://github.com/saivarunkonda/Samsung_Prism">PRISM</a></td>
  <td><a href="https://github.com/saivarunkonda/Eco-Tracker">Eco-Tracker</a></td>
