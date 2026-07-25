@@ -28,7 +28,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
 <tbody>
 <tr>
  <td><a href="https://github.com/saivarunkonda/Agents">Agents</a></td>
- <td><a href="https://github.com/saivarunkonda/Ride-Platform">Ride-Platform</a></td>
+ <td><a href="https://github.com/saivarunkonda/Ride-Platform">SwiftRide</a></td>
  <td><a href="https://github.com/saivarunkonda/CrisisLens">CrisisLens</a></td>
  <td><a href="https://github.com/saivarunkonda/RL">RL</a></td>
  <td><a href="https://github.com/saivarunkonda/Hackspire">HackSpire</a></td>
