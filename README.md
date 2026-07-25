@@ -35,7 +35,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
 </tr>
 <tr>
  <td><a href="https://github.com/saivarunkonda/MCP_Projects">MCP Projects</a></td>
- <td><a href="https://github.com/saivarunkonda/Ecommerce-Platform">Ecommerce-Platform</a></td>
+ <td><a href="https://github.com/saivarunkonda/Ecommerce-Platform">GlobeCart</a></td>
  <td><a href="https://github.com/saivarunkonda/video-analyzer">Video Analyzer</a></td>
  <td><a href="https://github.com/saivarunkonda/OSEL">PKOS</a></td>
  <td><a href="https://github.com/saivarunkonda/Back-End---Fear-Greed-Sentiment-Engine">Fear Greed Engine</a></td>
