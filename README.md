@@ -57,7 +57,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
 </tbody> 
 </table>
 
-## 🎯Targeting 20-25LPA
+## 🎯Targeting 25-30LPA
 
 ## 📊 GitHub Stats
 - 50+ Public Repositories
