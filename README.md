@@ -26,5 +26,5 @@ I build scalable applications across mobile, desktop, and backend using modern t
 
 ---
 <p align="center">
-  <b>Building a brand that speaks</b>
+  <b>Building the trust in work</b>
 </p>
