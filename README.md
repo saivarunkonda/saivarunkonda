@@ -25,5 +25,5 @@ I build scalable applications across mobile, desktop, and backend using modern t
 
 ---
 <p align="center">
-  <b>Building the trust!</b>
+  <b>Building trust! Shwing empathy! Staying detached</b>
 </p>
