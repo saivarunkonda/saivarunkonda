@@ -13,8 +13,6 @@ I build scalable applications across mobile, desktop, and backend using modern t
 - **AI/ML**: Python, TensorFlow, pytorch
 - **DevOps**: Docker, Kubernetes, AWS, 
 
-## 🎯Targeting 25-30LPA
-
 ## 📊 GitHub Stats
 - 40+ Public Repositories
 - Focus on: Mobile Development, AI/ML, Full-Stack Web, Cross Platform Development
