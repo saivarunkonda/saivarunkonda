@@ -17,7 +17,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
 - 40+ Public Repositories
 - Focus on: Mobile Development, AI/ML, Full-Stack Web, Cross Platform Development
 - Languages: Kotlin, TypeScript, Python, and more
-
+- Ended in stalemate repos
 ## 🔗Let us Connect
 - [LinkedIn](https://www.linkedin.com/in/sai-varun-konda-535900259/)
 
