@@ -62,7 +62,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
 - Languages: Kotlin, TypeScript, Python, and more
 - Always writing stories for needful people!!
 
-yesterday was going the meaning of "ganji" commonly used in South and I was shocked omg, this has so much to with me haaa! as it was not related to any other. God damn why am I here getting into space who is not like me understanding things 😭. 
+yesterday was going the meaning of "ganji" commonly used in South and I was shocked omg, this has so much to relate to me haaa! as it was not related to any other. God damn why am I here getting into space who is not like me understanding things 😭. 
 
 ## 🔗Let us Connect
 - [LinkedIn](https://www.linkedin.com/in/sai-varun-konda-535900259/)
