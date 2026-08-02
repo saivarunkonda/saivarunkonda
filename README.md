@@ -60,6 +60,9 @@ I build scalable applications across mobile, desktop, and backend using modern t
 - 40+ Public Repositories
 - Focus on: Mobile Development, AI/ML, Full-Stack Web, Cross Platform Development
 - Languages: Kotlin, TypeScript, Python, and more
+- Always writing stories for needful people!!
+
+yesterday was going the meaning of "ganji" commonly used in South and I was shocked omg, this has so much to relate to me haaa! as it was not related to any other. God damn why am I here getting into space who is not like me understanding things 😭.Come along with me i ll give you a ride was the response🚡🚠. 
 
 ## 🔗Let us Connect
 - [LinkedIn](https://www.linkedin.com/in/sai-varun-konda-535900259/)
