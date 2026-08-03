@@ -1,5 +1,5 @@
 
-# Hi, I'm Sai Varun Konda || Upcomming Founding Backend AI Engineer
+# Hi, I'm Sai Varun Konda
 
 ### 🚀 Full-Stack Developer | AI/ML | Android Developer | Specialization in LLMOPs
 
