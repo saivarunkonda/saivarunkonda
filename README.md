@@ -8,10 +8,10 @@ I build scalable applications across mobile, desktop, and backend using modern t
 ## 🛠️ Tech Stack
 - **Languages**: Kotlin, TypeScript, Python, C#, Java, C++
 - **Mobile**: Android, Flutter, React-Native
-- **Frontend**: React, Next.js, Vue.js, Angular,
-- **Backend**: Python, Node.js, Fastapi, Kafka, RabbitMQ
-- **AI/ML**: Python, TensorFlow, pytorch, keras, Mediapipe.
-- **DevOps**: Docker, Kubernetes, AWS, OpenShift, Istio, Hermes
+- **Frontend**: React, Next.js, Vue.js, Angular.js
+- **Backend**: Python, Node.js, Fastapi, Istio, Kafka, RabbitMQ, Apache Airflow.
+- **AI/ML**: Python, TensorFlow,  keras, pytorch, hermes.
+- **DevOps**: Docker, Kubernetes, AWS, OpenShift, ArgoCD.
 
 ## 📊 GitHub Stats
 - 40+ Public Repositories
