@@ -9,9 +9,9 @@ I build scalable applications across mobile, desktop, and backend using modern t
 - **Languages**: Kotlin, TypeScript, Python, C#, Java, C++
 - **Mobile**: Android, Flutter, React-Native
 - **Frontend**: React, Next.js, Vue.js, Angular,
-- **Backend**: Python, Node.js, Fastapi.
+- **Backend**: Python, Node.js, Fastapi, Kafka, RabbitMQ
 - **AI/ML**: Python, TensorFlow, pytorch, keras, Mediapipe.
-- **DevOps**: Docker, Kubernetes, AWS, OpenShift, Istio, Hermes, Kafka, RabbitMQ
+- **DevOps**: Docker, Kubernetes, AWS, OpenShift, Istio, Hermes
 
 ## 📊 GitHub Stats
 - 40+ Public Repositories
