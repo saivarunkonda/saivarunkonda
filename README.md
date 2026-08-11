@@ -11,7 +11,7 @@ I build scalable applications across mobile, desktop, and backend using modern t
 - **Frontend**: React, Next.js, Vue.js, Angular,
 - **Backend**: Python, Node.js, Fastapi.
 - **AI/ML**: Python, TensorFlow, pytorch, keras, Mediapipe.
-- **DevOps**: Docker, Kubernetes, AWS, OpenShift, Hermes, Kafka, RabbitMQ
+- **DevOps**: Docker, Kubernetes, AWS, OpenShift, Istio, Hermes, Kafka, RabbitMQ
 
 ## 📊 GitHub Stats
 - 40+ Public Repositories
