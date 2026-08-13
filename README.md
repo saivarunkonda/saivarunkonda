@@ -1,5 +1,5 @@
 
-# Hi, I'm Sai Varun Konda, eagerly looking for the opportunity
+# Hi, I'm Sai Varun Konda
 
 ### 🚀 Full-Stack Developer | AI/ML | Android Developer | Specialization in LLMOPs
 
